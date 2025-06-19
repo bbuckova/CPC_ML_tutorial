@@ -32,22 +32,6 @@ Once you are in the Colab notebook tab, in the top right corner you will see a `
 
 :warning: Note: Sometimes if the notebook is left running for a long time without any activity (i.e. your computer goes to sleep), you will be disconnected from the runtime. In that case, you will need to click on this same button. It will appear as `Reconnect` instead of `Connect`. You will also need to  re-run all code blocks. 
 
-![](presentation/Runtime1.png)
-
-:arrow_right: If you are using the Google Cloud hosted option: in the upper left corner, you will see a button called `Runtime`. Click on `Runtime`, and another dropdown panel will appear (as shown below). Click on `Change runtime type`.
-
-![](presentation/Runtime2.png)
-
-:arrow_right: This box will open, and you can click the  `GPU` option, then click `save`. 
-
-![](presentation/GPU.png)
-
-:arrow_right: In the same menu you used to change the runtime, there are several other optional things you can explore that may make your interaction with the notebook easier. Under ‘Tools’ there is a ‘Settings’ tab, which you can use to change the theme to light or dark mode using the ‘Site’ sub-tab. Then under the ‘Miscellaneous’ sub-tab, you can select Corgi or Kitty mode, and this will make cute animals walk across the top of your screen. There is no practical utility to this whatsoever, and it is for the sole purpose that cute animals spark joy. 
-
-:arrow_right: Also under the ‘Tools’ tab, there is an option to look at Keyboard shortcuts. You don’t need to change any of these, but you can review some of them if you want to learn about speeding up your coding practice. 
-
-![](presentation/keyboard_pref.png)
-
 :arrow_right: In the Colab python notebook, there are 2 types of cells: text cells & ```code cells```. The text cells have plain text in them, that the notebook will not interpret as code. These are the cells that contain the background story & task instructions. The ```code``` cells have a :arrow_forward: play button on the left side. These are the cells that the notebook will run as code. To run a ```code cell```, you can either click on the play button :arrow_forward: on the left side or use ‘Shift + Enter’ (your cursor must be inside the code cell). 
  
 ### Now you are ready to begin coding :brain:	:computer:! 
