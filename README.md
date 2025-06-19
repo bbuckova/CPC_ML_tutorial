@@ -1,6 +1,6 @@
 # Machine Learning with Normative Modeling Tutorial 
-## Computational Psychiatry Course 2024
-This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2024.
+## Computational Psychiatry Course 2025
+This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2025.
 
 ## Overview tutorial
 In this tutorial you will learn:
@@ -24,13 +24,6 @@ We will also be using the Pandas library for a lot of our code. There is a great
 Other helpful pandas:panda_face:/plotting:bar_chart: links (not required to do during the practical, just added for those who might need extra Python help):
 1. [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 2. [Pandas Selecting/Indexing API](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html)
-
-
-## Video
-If you did not have the chance to follow the lecture live at the CPC course here is an alternative presentation given by [Andre Marquand](https://twitter.com/amarquand?lang=en) on Normative modelling:
-
-[![normative modelling lecture](https://img.youtube.com/vi/8YX1K_ln14k/maxresdefault.jpg)](https://www.youtube.com/watch?v=8YX1K_ln14k&t=3s)
-
 
 ### :warning: Setup instructions for Google Colab :warning:
 You can open the Python notebook that we will use in this practical directly from this Github account (the links to the notebook are at the bottom of this Read Me file). Before you open the notebook, make sure you are logged into a Google account. All of the code has been tested using Google Chrome web browser. When you are ready to begin, you will click on the different Tasks with a Google Colab button below. This will launch a new browser tab with the Google Colab notebook. 
@@ -71,6 +64,11 @@ Before clicking on the collab button below, make sure you are logged into a Goog
 
 **Task 4: Using the outputs (Z-scores) as features in predictive model** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/4_post_hoc_analysis.ipynb)
 
+## Video
+If you did not have the chance to follow the lecture live at the CPC course here is an alternative presentation given by [Andre Marquand](https://twitter.com/amarquand?lang=en) or [Saige Rutherford](https://www.beingsaige.com/) on Normative modelling:
+
+[![normative modelling lecture](https://img.youtube.com/vi/8YX1K_ln14k/maxresdefault.jpg)](https://www.youtube.com/watch?v=8YX1K_ln14k&t=3s)
+[![Normative Modelling & Single-Subject Analysis](https://img.youtube.com/vi/V5W7uFQjNDY/maxresdefault.jpg)](https://www.youtube.com/watch?v=V5W7uFQjNDY)
 
 ## Suggested Reading
 Here we provide a non-exhaustive list of papers to help you with your understanding of the normative framework.
