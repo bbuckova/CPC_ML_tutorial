@@ -1,6 +1,6 @@
 # Machine Learning with Normative Modeling Tutorial 
 ## Computational Psychiatry Course 2025
-This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2025.
+This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2025 in Zurich, also presented at the [Computational Psychiatry Conference](https://www.cpconf.org/) 2025 in Tübingen. We encourage anyone who wants to apply or teach about normative modeling to use these tutorials freely for educational purposes. 
 
 ## Overview tutorial
 In this tutorial you will learn:
@@ -8,7 +8,7 @@ In this tutorial you will learn:
 2. Interpret and visualize the outputs of the normative models.
 3. Use the deviation scores to predict schizophrenia.
 
-This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige), [Thomas Wolfers](https://twitter.com/ThomasWolfers) and has been updated and edited by [Barbora Rehák Bučková](https://twitter.com/BarboraRehak), [Hannah Savage](https://twitter.com/DrHannahSavage) and [Charlotte Fraza](https://twitter.com/CFraza).
+This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige), [Thomas Wolfers](https://twitter.com/ThomasWolfers) and has been updated and edited by [Barbora Rehák Bučková](https://twitter.com/BarboraRehak), [Hannah Savage](https://twitter.com/DrHannahSavage) and [Charlotte Fraza](https://twitter.com/CFraza) and in general is maintained by the [Predictive Clinical Neuroscience Lab](https://predictiveclinicalneuroscience.com/).
 
 ## Prerequisite knowledge
 We will be running all of our code in Google Colab Python notebooks. These are essentially Jupyter notebooks run in the :cloud: *cloud* :cloud:. 
